@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-docs/menu.pdf
+https://susheria.github.io/susheria/docs/menu.pdf

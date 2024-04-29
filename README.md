@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="docs/menu.pdf" target="_blank">Menu</a>
-[embed]docs/menu.pdf[/embed]
+
+docs/menu.pdf

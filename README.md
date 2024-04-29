@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="susheria.github.io/susheria/docs/menu.pdf" target="_blank">PDF.</a>
+<a href="docs/menu.pdf" target="_blank">PDF.</a>
 
